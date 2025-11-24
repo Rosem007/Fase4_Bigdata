@@ -57,7 +57,7 @@ db.casos_covid.find({ "ID de caso": 1556980 })
 
 # Consultas básicas
 
-8.	Se Seleccionar todos los documentos con
+#Se Seleccionar todos los documentos con
    db.casos_covid.find()
  
 
